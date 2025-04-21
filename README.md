@@ -158,3 +158,14 @@ GROUP BY user_id
 ORDER BY order_count DESC
 LIMIT 5;
 ```
+
+## Задание 3 (Дашборд)
+[Ссылка на дашборд](https://datalens.yandex/t3aunwl943nuf)
+
+![Скриншот дашборда](img/dashboard.png)
+
+## Скриншоты созданного каталога облачных сервисов
+
+![Скриншот каталога](img/cloud_catalog.png)
+![Скриншот кластера data proc](img/data_proc_cluster.png)
+![Скриншот сервиса с Clickhouse](img/clickhouse.png)
